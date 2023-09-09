@@ -3,7 +3,7 @@ import { choice, remove } from './helpers';
 
 const food = choice(foods);
 
-console.log(`I'd like one ${food}, please`);
+console.log(`I'd like two ${food}, please`);
 console.log(`Here you go: ${food}`);
 console.log(`Delicious! May I have another?`);
 
